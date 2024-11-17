@@ -5,8 +5,14 @@ Aim:
 To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simulate its functionality, and to understand its application in digital arithmetic operations.
 
 Tools Required:
+
 •	Personal Computer
 •	Cadence Virtuoso Software
+
+Circuit Diagram:
+
+![WhatsApp Image 2024-11-13 at 16 26 08_2dd1beef](https://github.com/user-attachments/assets/5489f6f6-7cb6-424d-8c88-e084fc47195e)
+
 
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
